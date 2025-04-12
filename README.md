@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-Kadem20092009/Kadem20092009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kadem/Kadem
+is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
